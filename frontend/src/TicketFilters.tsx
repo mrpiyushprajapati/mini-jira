@@ -1,4 +1,4 @@
-import { ChangeEvent } from 'react'
+import type { ChangeEvent } from 'react'
 import { useTickets } from './TicketContext'
 import type { Priority, Status } from './TicketContext'
 
